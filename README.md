@@ -14,3 +14,5 @@ AI指示書カタログ
 ### Programming
 - Spring-Building-Adviser.md: Spring環境に特化したアドバイスが貰えます
 
+## ライセンス
+MIT License
